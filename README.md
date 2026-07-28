@@ -1,0 +1,2 @@
+Modeled undervalued homes using county tax assessment data (20K rows × 107 features) in R, identifying key value predictors via linear regression (RMSE 80,019, MAPE 10.3%) after eliminating irrelevant features
+Extended the cleaned dataset to build a decision tree classifying property condition (CDU rating) at 92% accuracy, noting reduced reliability for underrepresented condition classes (1–3) due to class imbalance
